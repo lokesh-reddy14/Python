@@ -1,0 +1,21 @@
+~/my-python-program$ python
+Python 3.8.12 (default, Sep 10 2021, 00:16:05) 
+[GCC 7.5.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 3+4
+7
+>>> 9*6
+54
+>>> 4/23
+0.17391304347826086
+>>> a=3
+>>> b=8
+>>> c=a*b
+>>> c
+24
+>>> 2*6*+5*+8
+480
+>>> 5594/24
+233.08333333333334
+>>> (5*9)/2
+22.5

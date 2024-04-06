@@ -1,0 +1,6 @@
+Assignment 5
+1.	Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9). 
+2.	Write a Python program that matches a string that has an a followed by zero or more b's
+3.	Write a Python program that matches a string that has an a followed by one or more b's 
+4.	Write a Python program that matches a string that has an a followed by zero or one 'b' 
+5.	Write a Python program that matches a string that has an a followed by three 'b'

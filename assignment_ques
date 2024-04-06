@@ -1,0 +1,11 @@
+1.read an entire text file.
+2.read the first n lines of a file.
+3.append text to a file and display the text.
+4.Read numbers from a file and write even and odd numbers to separate files.
+5.Count characters, words and lines in a text file.
+6.To write a list to a file.
+7.Given a CSV file or excel file to read it into a dataframe and display it.
+8.Given a dataframe, select rows based on a condition.
+9.Given is a dataframe showing the name, occupation, salary of people. Find the average salary per occupation.
+10.To convert Python objects into JSON strings. Print all the values.
+11.Write a Pandas program to read specific columns from a given excel file. 
